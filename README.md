@@ -3,7 +3,7 @@
 ### This Example is a Work in Progress
 
 For now, it contains examples on:
-* Managinf addresses with Solidity.
+* Managing addresses with Solidity.
 
 For more information visit the [Basic Example](https://github.com/federicomazzini/Solidity-Examples).
 
