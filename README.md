@@ -3,12 +3,9 @@
 ### This Example is a Work in Progress
 
 For now, it contains examples on:
-* Creating a smart contract written in Solidity
-* Creating tests for the contract using mocha testing suite.
-* Deploying the contract in a local test network using the Ganache module.
-* [Work in progress] Deploying the contract in the Rigby test network using the Infura API.
+* Managinf addresses with Solidity.
 
-This project uses the [Infura API](https://infura.io). You will have to register, create a project, and obtain a valid API key in order to run the examples.
+For more information visit the [Basic Example](https://github.com/federicomazzini/Solidity-Examples).
 
 ### Dependencies
 
